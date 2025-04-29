@@ -12,7 +12,7 @@ This is a **frontend-only** project built using the modern web stack: **React**,
 - ⚛️ **React** – Component-based UI development  
 - 🎨 **Tailwind CSS** – Utility-first styling for rapid UI building  
 - 🌐 **HTML & CSS** – Core structure and layout  
-- 🧠 **JavaScript** – Dynamic behavior and interactivity  
+- 🧠 **TypeScript** – Dynamic behavior and interactivity  
 
 ---
 
