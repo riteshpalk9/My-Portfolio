@@ -94,8 +94,8 @@ const Contact = () => {
             <div className="content-tile">
               <div className="flex items-center gap-4 text-lg">
                 <Mail className="h-6 w-6 text-primary" />
-                <a href="mailto:riteshpal333@gmail.com" className="text-primary hover:underline">
-                  riteshpal333@gmail.com
+                <a href="mailto:dev.01ritesh@gmail.com" className="text-primary hover:underline">
+                  dev.01ritesh@gmail.com
                 </a>
               </div>
             </div>
