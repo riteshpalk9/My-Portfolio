@@ -23,7 +23,7 @@ const Footer = () => {
   const socialLinks = [
     { href: "https://github.com/riteshpalk9", icon: Github, label: "GitHub" },
     { href: "https://www.linkedin.com/in/ritesh-pal-8b7082225/", icon: Linkedin, label: "LinkedIn" },
-    { href: "mailto:riteshpal333@gmail.com", icon: Mail, label: "Email" },
+    { href: "mailto:dev.01ritesh@gmail.com", icon: Mail, label: "Email" },
   ];
 
   return (
@@ -82,7 +82,7 @@ const Footer = () => {
                 isDark ? "text-gray-300" : "text-gray-600"
               )}>
                 <Mail className="h-4 w-4 text-primary" />
-                riteshpal333@gmail.com
+                dev.01ritesh@gmail.com
               </p>
               <p className={cn(
                 "flex items-center gap-2",
